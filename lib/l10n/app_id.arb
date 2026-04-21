@@ -1,0 +1,20 @@
+{
+  "@@locale": "id",
+  "appTitle": "Lantern Drift",
+  "play": "Main",
+  "settings": "Pengaturan",
+  "language": "Bahasa",
+  "audio": "Audio",
+  "music": "Musik",
+  "sfx": "Efek Suara",
+  "mute": "Bisu",
+  "resume": "Lanjutkan",
+  "pause": "Jeda",
+  "lang_en": "Inggris",
+  "lang_zh": "Tionghoa Sederhana",
+  "lang_ja": "Jepang",
+  "lang_ko": "Korea",
+  "lang_th": "Thai",
+  "lang_id": "Bahasa Indonesia"
+}
+

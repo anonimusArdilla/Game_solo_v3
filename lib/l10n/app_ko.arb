@@ -1,0 +1,20 @@
+{
+  "@@locale": "ko",
+  "appTitle": "랜턴 드리프트",
+  "play": "플레이",
+  "settings": "설정",
+  "language": "언어",
+  "audio": "오디오",
+  "music": "음악",
+  "sfx": "효과음",
+  "mute": "음소거",
+  "resume": "재개",
+  "pause": "일시정지",
+  "lang_en": "영어",
+  "lang_zh": "중국어(간체)",
+  "lang_ja": "일본어",
+  "lang_ko": "한국어",
+  "lang_th": "태국어",
+  "lang_id": "인도네시아어"
+}
+
